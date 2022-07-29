@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Poppins&family=Space+Grotesk&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #121212;
+    color: #fff;
+}
+
+hr {
+    height: 1px;
+    border: none;
+    color: #333;
+}
+
+.header {
+    letter-spacing: 15px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
